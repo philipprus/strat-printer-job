@@ -2,9 +2,9 @@ import React, { useContext } from "react";
 import { GlobalContext } from "../../context/GlobalState";
 import AddJobForm from "../AddJobForm/AddJobForm";
 import JobList from "../JobList/JobList";
-import ModalWithButton from "../ModalWithButton/ModalWithButton";
 import ActionBar from "../shared-ui/ActionBar/ActionBar";
 import { JobType } from "../shared-ui/Job/Job";
+import ModalWithButton from "../shared-ui/ModalWithButton/ModalWithButton";
 
 const ModalForm = () => (
   <ModalWithButton textOpenModalButton="Add a job">
