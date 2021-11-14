@@ -23,7 +23,11 @@ React application bootstrapped with [Create React App](https://github.com/facebo
     └── utils/    => global constants and helper functions
 ```
 
-# Getting Started with Create React App
+## Important
+
+Don't forget to rename .env.example to .env
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
